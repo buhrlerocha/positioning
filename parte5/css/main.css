@@ -1,0 +1,42 @@
+/* Pon tu código css aqui */
+body {
+	padding:0;
+	margin: 0;
+}
+
+.rojo {
+	width: 200px;
+	height: 200px;
+	background-color: #ee3e64;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.azul {
+    width: 200px;
+	height: 200px;
+	background-color: #44accf;
+	position: absolute;
+	top: 0;
+	right: 0;
+		
+}
+
+.verde {
+	width: 200px;
+	height: 200px;
+	background-color: #b7d84b;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.amarillo {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
